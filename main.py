@@ -10,7 +10,7 @@ GENDER = "Male"
 APP_ID = os.environ["APP_ID"]
 API_KEY = os.environ["API_KEY"]
 
-NUTRITIONIX_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
+NUTRITIONIX_ENDPOINT = "NUTRITIONIX_ENDPOINT"
 SHEETY_ENDPOINT = os.environ["SHEETY_ENDPOINT"]
 TOKEN = os.environ["TOKEN"]
 
